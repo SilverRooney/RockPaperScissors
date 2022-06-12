@@ -1,7 +1,7 @@
 # RockPaperScissors
 A simple Rock Paper Scissors game made with SwiftUI.
 
-A challenge from the 100daysofSwiftUI course. All the logic is mine, I completed the challenge.
+A challenge from the 100daysofSwiftUI course. All the logic is mine, I completed the challenge!
 
 
 
